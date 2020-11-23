@@ -1,0 +1,30 @@
+D:\Coding\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.exe.config
+D:\Coding\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.exe
+D:\Coding\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.pdb
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csprojResolveAssemblyReference.cache
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image_to_Text_Converter.Form1.resources
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image_to_Text_Converter.Properties.Resources.resources
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csproj.GenerateResource.cache
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csproj.CoreCompileInputs.cache
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.exe
+D:\Coding\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.pdb
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.exe.config
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.exe
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.pdb
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csprojAssemblyReference.cache
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image_to_Text_Converter.Form1.resources
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image_to_Text_Converter.Properties.Resources.resources
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csproj.GenerateResource.cache
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.exe
+G:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.pdb
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.exe.config
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.exe
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\bin\Debug\Image to Text Converter.pdb
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csprojAssemblyReference.cache
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image_to_Text_Converter.Form1.resources
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image_to_Text_Converter.Properties.Resources.resources
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csproj.GenerateResource.cache
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.exe
+F:\Programming\C#\Image to Text Converter\Image to Text Converter\obj\Debug\Image to Text Converter.pdb
